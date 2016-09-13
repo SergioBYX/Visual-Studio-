@@ -1,0 +1,2 @@
+c:\users\sergi\documents\visual studio 2015\Projects\Presentacion2\Presentacion2\bin\Debug\Presentacion2.exe.config
+C:\Users\sergi\Documents\Visual Studio 2015\Projects\CodigoFacilito\Presentacion2\Presentacion2\bin\Debug\Presentacion2.exe.config
